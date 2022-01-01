@@ -1,4 +1,4 @@
-## Cyber Gurbani: Privacy policy
+## Cyber Gurbani: Privacy Policy
 
 Cyber Gurbani does not collect any personally identifiable information. All data created by you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling the app.
 
