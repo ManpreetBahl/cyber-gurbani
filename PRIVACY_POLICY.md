@@ -5,5 +5,5 @@ Cyber Gurbani does not collect any personally identifiable information. All data
 If you find any security vulnerability that has been inadvertently caused by me, or have any questions regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
 
 Regards,  
-Manpreet Bahl
+Manpreet Bahl\
 themanpreetbahl@gmail.com
